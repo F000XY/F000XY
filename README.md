@@ -1,5 +1,5 @@
-<h1 align="center">Hello World!! </h1>
-<h2>I'm a developer with a passion for C# and C++, currently studying Information Systems. I love taking on challenges!</h2>
+<h1 align="center">Hello World!!🔮 </h1>
+<h2>✨ I'm a developer with a passion for C# and C++, currently studying Information Systems. I love taking on challenges!</h2>
 
 ###
 
@@ -32,9 +32,9 @@
 My Best Repositories:
 ---
 
-1. RPG de Texto: [RPG de Texto](https://github.com/F000XY/RPG-de-texto)
-2. Jogo da Forca (Console): [Jogo da Forca (Console)](https://github.com/F000XY/Jogo-Forca-Console)
-3. Jogo da Velha (Console): [Jogo da Velha (Console)](https://github.com/F000XY/Jogo-Da-Velha-Console)
+✨RPG de Texto: [RPG de Texto](https://github.com/F000XY/RPG-de-texto)
+✨Jogo da Forca (Console): [Jogo da Forca (Console)](https://github.com/F000XY/Jogo-Forca-Console)
+✨Jogo da Velha (Console): [Jogo da Velha (Console)](https://github.com/F000XY/Jogo-Da-Velha-Console)
 
 
 ###
