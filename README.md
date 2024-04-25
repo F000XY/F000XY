@@ -1,4 +1,5 @@
-<p align="left">Hello World!! I'm a developer with a passion for C# and C++, currently studying Information Systems. I love taking on challenges!</p>
+<h1 align="center">Hello World!! </h1>
+<h2>I'm a developer with a passion for C# and C++, currently studying Information Systems. I love taking on challenges!</h2>
 
 ###
 
@@ -28,14 +29,19 @@
 </div>
 
 ###
- <div style="padding-top:60.000%;position:relative;"><iframe src="https://gifer.com/embed/9Wgp" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
+My Best Repositories:
+---
+
+1. RPG de Texto: [RPG de Texto](https://github.com/F000XY/RPG-de-texto)
+2. Jogo da Forca (Console): [Jogo da Forca (Console)](https://github.com/F000XY/Jogo-Forca-Console)
+3. Jogo da Velha (Console): [Jogo da Velha (Console)](https://github.com/F000XY/Jogo-Da-Velha-Console)
+
 
 ###
-
-<img src="https://raw.githubusercontent.com/F000XY/F000XY/output/snake.svg" alt="Snake animation" />
+![9Wgp](https://github.com/F000XY/F000XY/assets/148366887/7b03b585-b33b-4b05-81f5-c15e33484779)
 
 ###
-
+---
 <div align="left">
   <a href="https://www.linkedin.com/in/nathaliahelenna/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
